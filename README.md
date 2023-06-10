@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwasemilore Bajomo
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning javascript/Node js 
+- 🌱 I’m currently learning javascript 
 - 📫 How to reach me bajomsemilore@gmail.com
 
 <!---

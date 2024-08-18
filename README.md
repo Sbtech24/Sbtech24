@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm semilore</h1>
 <h3 align="center">I love building stuff</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbtech24" alt="sbtech24" /></a> </p>
-
 - 🌱 I’m currently learning **React,Redux,Next,Typescript**
 
 - 💬 Ask me about **Web development, react**

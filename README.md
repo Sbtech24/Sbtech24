@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbtech24&show_icons=true&locale=en&layout=compact" alt="sbtech24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbtech24&" alt="sbtech24" /></p>
+
 
 <!---
 Sbtech24/Sbtech24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

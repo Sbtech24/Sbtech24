@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm semilore</h1>
 <h3 align="center">I love building stuff</h3>
 
-- 🌱 I’m currently learning **Next js and Typescript**
+- 🌱 I’m currently learning **Backend development with Typescript,Node/Express,Postgres**
 
 - 💬 Ask me about **Web development, react**
 

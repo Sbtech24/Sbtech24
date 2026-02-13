@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm semilore</h1>
 <h3 align="center">I love building stuff</h3>
 
-- 🌱 I’m currently learning **Backend development with Typescript,Node/Express,Postgres**
+- 🌱 I’m currently exploring **Mobile development with React Native **
 
-- 💬 Ask me about **Web development, react**
+- 💬 Ask me about **Software engineering**
 
 - 📫 How to reach me **bajomosemilore@gmail.com**
 
-- ⚡ Fun fact **I love Barcelona**
+- ⚡ Fun fact **I love Football club Barcelona and chess sometimes **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

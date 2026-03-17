@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm semilore</h1>
 <h3 align="center">I love building stuff</h3>
 
-- 🌱 I’m currently exploring **Mobile development with React Native **
+- 🌱 I’m currently exploring **Learning and building**
 
 - 💬 Ask me about **Software engineering**
 
